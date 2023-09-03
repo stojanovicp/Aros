@@ -1,7 +1,7 @@
 # AROS-projekat
 Ime: Petar Stojanović
 
-Tema projekta u okviru kursa Arhitektura Računara i Operativni Sistemi odnosi se na izradu aplikacije za međusobnu razmenu tekstualnih poruka između različitih procesa koristeći named pipe (imenovane cijevi) i semafore.
+Tema projekta u okviru predmeta Arhitektura Računara i Operativni Sistemi odnosi se na izradu aplikacije za međusobnu razmenu tekstualnih poruka između različitih procesa koristeći named pipe (imenovane cijevi) i semafore.
 
 Kako da pokrenete program:
 
